@@ -1,4 +1,4 @@
-package fullhousedb21;
+package fullhousedb;
 
 import javax.swing.JFrame;
 
