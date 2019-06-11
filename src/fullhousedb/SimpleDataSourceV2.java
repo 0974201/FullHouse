@@ -1,4 +1,4 @@
-package fullhousedb21;
+package fullhousedb;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
