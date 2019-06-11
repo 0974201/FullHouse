@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package fullhousedb21;
 
 import java.sql.Connection;
@@ -12,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Suman
+ * @author adeliae
  */
 public class SimpleDataSourceV2 {
 
@@ -44,7 +39,7 @@ public class SimpleDataSourceV2 {
         }
 		
         dbserver = "";
-        database = "13010751";
+        database = "";
         username = "13010751";
         password = "";
     }
